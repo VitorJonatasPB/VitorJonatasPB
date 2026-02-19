@@ -47,14 +47,10 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Engenheiro de Software com formação em Física, combinando forte capacidade analítica com visão estruturada de sistemas. Tenho experiência na modelagem e organização de dados complexos, evidenciada pelo desenvolvimento de um banco de itens em Eletromagnetismo com foco em consistência, lógica e escalabilidade.
 
-###
+Atuo como consultor educacional, o que fortaleceu minha habilidade de comunicação técnica, resolução de problemas e pensamento orientado a resultados. Atualmente, direciono minha carreira para o desenvolvimento back-end, com foco em Java e Python, APIs, bancos de dados, testes, QA e boas práticas de programação orientada a objetos.
 
-<p align="left">Hello World!!</p>
+Busco oportunidades em desenvolvimento de software onde eu possa agregar valor construindo soluções robustas, escaláveis e sustentáveis, alinhando qualidade técnica, organização e visão de longo prazo.</p>
 
-###
 
-<p align="left">Hello World!!</p>
-
-###
