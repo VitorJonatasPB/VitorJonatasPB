@@ -8,8 +8,6 @@
 Engenheiro de Software com formação em Física, combinando forte capacidade analítica com visão estruturada de sistemas. Tenho experiência na modelagem e organização de dados complexos, evidenciada pelo desenvolvimento de um banco de itens em Eletromagnetismo com foco em consistência, lógica e escalabilidade.</p>
 <p align="justify">
 Atuo como consultor educacional, o que fortaleceu minha habilidade de comunicação técnica, resolução de problemas e pensamento orientado a resultados. Atualmente, direciono minha carreira para o desenvolvimento back-end, com foco em Java e Python, APIs, bancos de dados, testes, QA e boas práticas de programação orientada a objetos.</p>
-<p align="justify">
-Busco oportunidades em desenvolvimento de software onde eu possa agregar valor construindo soluções robustas, escaláveis e sustentáveis, alinhando qualidade técnica, organização e visão de longo prazo.</p>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
