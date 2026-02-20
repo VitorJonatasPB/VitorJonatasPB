@@ -1,7 +1,7 @@
 <h2 align="left">🧑🏽‍💻 Vitor Jônatas Paiva Barbosa</h2>
 
 <div align="center">
-<img height="180" src="https://cdn-wcsm.alura.com.br/2025/04/imagem1-46.gif"/>
+<img height="150" src="https://cdn-wcsm.alura.com.br/2025/04/imagem1-46.gif"/>
 </div>
 
 <p align="justify">
