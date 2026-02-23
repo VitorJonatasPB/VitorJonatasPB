@@ -10,8 +10,11 @@ Engenheiro de Software com formação em Física, combinando forte capacidade an
 Atuo como consultor educacional, o que fortaleceu minha habilidade de comunicação técnica, resolução de problemas e pensamento orientado a resultados. Atualmente, direciono minha carreira para o desenvolvimento back-end, com foco em Java e Python, APIs, bancos de dados, testes, QA e boas práticas de programação orientada a objetos.</p>
 
 <div align="left">
+<a href="https://www.linkedin.com/in/vitor-jonatas" target="blank">
+
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img
+</a> src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
 </div>
 
